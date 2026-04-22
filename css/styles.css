@@ -3633,7 +3633,7 @@ td:last-child {
     padding-right      : var(--gutter);
     position           : absolute;
     top                : var(--content-padding-top);
-    left               : calc(45% - var(--pic-primary-mleft));
+    left               : calc(47% - var(--pic-primary-mleft));
 }
 
 .intro-pic-primary img {
