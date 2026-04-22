@@ -4098,6 +4098,27 @@ td:last-child {
     transform: rotate(6deg);
 }
 
+.about-float-6 {
+    top: 5%;
+    left: 35%;
+    width: 260px;
+    transform: rotate(-5deg);
+}
+
+.about-float-7 {
+    top: 60%;
+    right: 5%;
+    width: 300px;
+    transform: rotate(4deg);
+}
+
+.about-float-8 {
+    bottom: 15%;
+    left: 50%;
+    width: 280px;
+    transform: rotate(-3deg);
+}
+
 .about-environment {
     position: absolute;
     top: 50%;
