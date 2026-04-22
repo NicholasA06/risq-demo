@@ -3994,7 +3994,7 @@ td:last-child {
 .s-about {
     padding-top: var(--vspace-5);
     position: relative;
-    min-height: 220vh; /* THIS is what fixes the "1 inch page" problem */
+    min-height: 60vh; /* THIS is what fixes the "1 inch page" problem */
     overflow: visible;
 }
 
