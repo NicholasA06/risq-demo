@@ -4021,7 +4021,7 @@ td:last-child {
 /* CONTENT WRAPPER */
 .s-about__content {
     position: relative;
-    min-height: 120vh; /* IMPORTANT: gives floats room */
+    min-height: 100vh; /* IMPORTANT: gives floats room */
     z-index: 2;
 }
 
@@ -4064,13 +4064,13 @@ td:last-child {
 }
 
 .about-float-1 { top: 5%; left: 5%; width: 360px; transform: rotate(-6deg); } 
-.about-float-2 { top: 05%; right: 10%; width: 260px; transform: rotate(5deg); } 
-.about-float-3 { bottom: 10%; left: 0%; width: 500px; transform: rotate(3deg); } 
-.about-float-4 { top: 0%; right: 50%; width: 300px; transform: rotate(2deg); } 
-.about-float-6 { top: 5%; left: 35%; width: 260px; transform: rotate(-5deg); } 
-.about-float-7 { top: 60%; right: 5%; width: 300px; transform: rotate(4deg); } 
-.about-float-8 { bottom: 15%; left: 50%; width: 280px; transform: rotate(-3deg); } 
-.about-float-5 { bottom: 5%; right: 20%; width: 500px; transform: rotate(6deg); }
+.about-float-2 { top: 0%; right: 15%; width: 300px; transform: rotate(5deg); } 
+.about-float-3 { bottom: 10%; left: 0%; width: 600px; transform: rotate(3deg); } 
+.about-float-4 { top: 0%; right: 40%; width: 600px; transform: rotate(2deg); } 
+.about-float-6 { top: 5%; left: 20%; width: 260px; transform: rotate(-5deg); } 
+.about-float-7 { top: 60%; right: 0%; width: 500px; transform: rotate(4deg); } 
+.about-float-8 { bottom: 0%; left: 30%; width: 450px; transform: rotate(-3deg); } 
+.about-float-5 { bottom: 40%; right: 20%; width: 200px; transform: rotate(6deg); }
    
 .about-environment {
     position: absolute;
