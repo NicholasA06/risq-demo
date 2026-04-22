@@ -4068,7 +4068,7 @@ td:last-child {
 .about-float-3 { bottom: 00%; left: 0%; width: 600px; transform: rotate(3deg); } 
 .about-float-4 { top: 0%; right: 25%; width: 400px; transform: rotate(2deg); } 
 .about-float-7 { top: 40%; right: 0%; width: 600px; transform: rotate(4deg); } 
-.about-float-8 { bottom: 0%; left: 40%; width: 450px; z-index: 3; } 
+.about-float-8 { bottom: 0%; left: 40%; width: 450px; rotate(-4deg); z-index: 3; } 
    
 .about-environment {
     position: absolute;
