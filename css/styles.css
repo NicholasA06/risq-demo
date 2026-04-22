@@ -4079,22 +4079,22 @@ td:last-child {
 
 .about-float-3 {
     bottom: 10%;
-    left: 50%;
+    left: 0%;
     width: 500px;
     transform: rotate(3deg);
 }
 
 .about-float-4 {
     top: 0%;
-    right: 30%;
+    right: 50%;
     width: 300px;
-    transform: rotate(-4deg);
+    transform: rotate(2deg);
 }
 
 .about-float-5 {
     bottom: 5%;
     right: 20%;
-    width: 300px;
+    width: 500px;
     transform: rotate(6deg);
 }
 
