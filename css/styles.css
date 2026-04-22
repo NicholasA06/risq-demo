@@ -4064,11 +4064,11 @@ td:last-child {
 }
 
 .about-float-1 { top: -20%; left: 05%; width: 450px; transform: rotate(-6deg); } 
-.about-float-2 { top: -10%; right: 05%; width: 400px; transform: rotate(5deg); } 
+.about-float-2 { top: -10%; right: 05%; width: 400px; transform: rotate(5deg); z-index: 3; } 
 .about-float-3 { bottom: 00%; left: 0%; width: 600px; transform: rotate(3deg); } 
-.about-float-4 { top: 0%; right: 25%; width: 400px; transform: rotate(2deg); } 
-.about-float-7 { top: 40%; right: 0%; width: 600px; transform: rotate(4deg); } 
-.about-float-8 { bottom: 0%; left: 40%; width: 450px; rotate(-4deg); z-index: 3; } 
+.about-float-4 { top: 0%; right: 40%; width: 500px; transform: rotate(2deg); } 
+.about-float-7 { top: 50%; right: 0%; width: 600px; transform: rotate(4deg); } 
+.about-float-8 { bottom: 0%; left: 35%; width: 450px; rotate(-4deg); z-index: 3; } 
    
 .about-environment {
     position: absolute;
