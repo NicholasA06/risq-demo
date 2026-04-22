@@ -4063,13 +4063,13 @@ td:last-child {
     object-fit: cover;
 }
 
-.about-float-1 { top: 5%; left: 5%; width: 360px; transform: rotate(-6deg); } 
-.about-float-2 { top: 0%; right: 15%; width: 300px; transform: rotate(5deg); } 
-.about-float-3 { bottom: 10%; left: 0%; width: 600px; transform: rotate(3deg); } 
+.about-float-1 { top: -10%; left: 0%; width: 360px; transform: rotate(-6deg); } 
+.about-float-2 { top: -10%; right: 0%; width: 400px; transform: rotate(5deg); } 
+.about-float-3 { bottom: 00%; left: 0%; width: 600px; transform: rotate(3deg); z-index: 3; } 
 .about-float-4 { top: 0%; right: 40%; width: 600px; transform: rotate(2deg); } 
 .about-float-6 { top: 5%; left: 20%; width: 260px; transform: rotate(-5deg); } 
 .about-float-7 { top: 60%; right: 0%; width: 500px; transform: rotate(4deg); } 
-.about-float-8 { bottom: 0%; left: 30%; width: 450px; transform: rotate(-3deg); } 
+.about-float-8 { bottom: 0%; left: 35%; width: 450px; transform: rotate(-3deg); } 
 .about-float-5 { bottom: 40%; right: 20%; width: 200px; transform: rotate(6deg); }
    
 .about-environment {
