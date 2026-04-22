@@ -4021,7 +4021,7 @@ td:last-child {
 /* CONTENT WRAPPER */
 .s-about__content {
     position: relative;
-    min-height: 220vh; /* IMPORTANT: gives floats room */
+    min-height: 120vh; /* IMPORTANT: gives floats room */
     z-index: 2;
 }
 
