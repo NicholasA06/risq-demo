@@ -3624,7 +3624,7 @@ td:last-child {
 }
 
 .intro-pic-primary {
-    --pic-primary-width: calc((100 / (12/6)) * 1%);
+    --pic-primary-width: calc((100 / (12/5)) * 1%);
     --pic-primary-mleft: calc(var(--pic-primary-width) / 2);
 
     width              : var(--pic-primary-width);
@@ -3637,9 +3637,9 @@ td:last-child {
 }
 
 .intro-pic-primary img {
-    margin        : 0;
-    vertical-align: bottom;
-    aspect-ratio  : 1200/1650;
+    aspect-ratio: auto;
+    width: 100%;
+    height: auto;
 }
 
 .intro-block-content {
